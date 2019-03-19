@@ -45,7 +45,8 @@ export class MensoutwearComponent implements OnInit {
       imagePath: 'assets/mensshirtimages/shirt6.jpg',
     },
   ];
-  constructor() { }
+  constructor() { 
+  }
 
   ngOnInit() {
   }

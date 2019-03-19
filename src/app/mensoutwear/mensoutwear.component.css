@@ -3,6 +3,10 @@
     height: 300px;
 }
 
-.Text-Position{
+.text-position{
 margin-left: 140px;
+}
+
+.heading{
+    text-align: center;
 }
