@@ -12,37 +12,37 @@ export class MensoutwearComponent implements OnInit {
       imageId: 1,
       imageName: 'shirt1',
       imagePrice: 50,
-      imagePath: '',
+      imagePath: 'assets/mensshirtimages/shirt2.jpg',
     },
     {
       imageId: 2,
       imageName: 'shirt2',
       imagePrice: 150,
-      imagePath: '',
+      imagePath: 'assets/mensshirtimages/shirt2.jpg',
     },
     {
       imageId: 3,
       imageName: 'shirt3',
       imagePrice: 70,
-      imagePath: '',
+      imagePath: 'assets/mensshirtimages/shirt3.jpg',
     },
     {
       imageId: 4,
       imageName: 'shirt4 ',
       imagePrice: 100,
-      imagePath: '',
+      imagePath: 'assets/mensshirtimages/shirt4.jpg',
     },
     {
       imageId: 5,
       imageName: 'shirt5 ',
       imagePrice: 90,
-      imagePath: '',
+      imagePath: 'assets/mensshirtimages/shirt2.jpg',
     },
     {
       imageId: 6  ,
       imageName: 'shirt6',
       imagePrice: 80,
-      imagePath: '',
+      imagePath: 'assets/mensshirtimages/shirt6.jpg',
     },
   ];
   constructor() { }
