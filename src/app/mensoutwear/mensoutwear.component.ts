@@ -10,7 +10,7 @@ export class MensoutwearComponent implements OnInit {
   mensOutwears: MensoutWear[] = [
     {
       imageId: 1,
-      imageName: 'shirt1',
+      imageName: 'shirtabcd1',
       imagePrice: 50,
       imagePath: 'assets/mensshirtimages/shirt2.jpg',
     },
@@ -34,7 +34,7 @@ export class MensoutwearComponent implements OnInit {
     },
     {
       imageId: 5,
-      imageName: 'shirt5 ',
+      imageName: 'shirtabcdkdkdkdkde5 ',
       imagePrice: 90,
       imagePath: 'assets/mensshirtimages/shirt2.jpg',
     },

@@ -3,8 +3,8 @@
 <div class="row">
   <div class="-xs-10 col-md-offset-1" >
     <div *ngFor="let shirts of  mensOutwears">
-      <div class="col-xs-4">
- col       <img class="shirtimage" [src]="shirts.imagePath">
+      <div class="col-xs-4 ">
+        <img class="shirtimage" [src]="shirts.imagePath">
         <p class="text-position"><b> {{ shirts.imageName }}</b></p>
         <p class="text-position"> ${{ shirts.imagePrice }} </p>
       </div>
